@@ -34,3 +34,8 @@ footer {
   font-family: 'Righteous', cursive;
   color: white;
 }
+#avatar{
+  height: 350px;
+  width: 450px;
+  border-radius: 50%;
+}
